@@ -1,0 +1,17 @@
+{
+  "name": "fixme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rocket start",
+    "build": "rocket build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rocket/cli": "^0.6.0",
+    "@rocket/launch": "^0.4.0"
+  }
+}
