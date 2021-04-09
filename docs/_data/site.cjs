@@ -7,12 +7,12 @@ module.exports = function () {
     socialLinks: [
       {
         name: 'GitHub',
-        url: 'https://github.com/petecarapetyan/rocket-themes/tree/main/not-reddit/src/docs',
+        url: 'https://github.com/petecarapetyan/fins-rocket-themes/tree/main/not-reddit/src/docs',
       },
     ],
-    gitSiteUrl: 'https://github.com/petecarapetyan/rocket-themes',
+    gitSiteUrl: 'https://github.com/petecarapetyan/fins-rocket-themes',
     gitBranch: 'main',
-    helpUrl: 'https://github.com/petecarapetyan/rocket-themes/issues',
+    helpUrl: 'https://github.com/petecarapetyan/fins-rocket-themes/issues',
     logoAlt: 'Rocket Logo',
     iconColorMaskIcon: '#3f93ce',
     iconColorMsapplicationTileColor: '#1d3557',
