@@ -2,7 +2,7 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'markedup',
+    name: 'greenit',
     description: 'not-reddit is a customizeable theme, for the Rocket SSG',
     socialLinks: [
       {
