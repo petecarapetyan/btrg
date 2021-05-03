@@ -4,19 +4,23 @@
     "children": [
       {
         "text": "not-npr",
-        "href": "https://appwriter.com"
+        "href": "https://appwriter.com/"
       },
       {
         "text": "not-ibm",
-        "href": "https://walktownnet.web.app/"
+        "href": "https://walktown.net/"
       },
       {
         "text": "not-slashdot",
-        "href": "https://mymodelercom.web.app/"
+        "href": "https://mymodeler.com/"
       },
       {
         "text": "not-optimize",
-        "href": "http://couldbe-net.web.app/"
+        "href": "https://couldbe.net/"
+      },
+      {
+        "text": "not-fuelcell",
+        "href": "https://betterology.net/"
       },
       {
         "text": "not-axios",
@@ -40,11 +44,7 @@
       },
       {
         "text": "not-github",
-        "href": "https://mtobwin.web.app"
-      },
-      {
-        "text": "not-fuelcell",
-        "href": "https://betterologist.web.app"
+        "href": "https://mtobwin.web.app/"
       }
     ]
   },
@@ -57,15 +57,15 @@
       },
       {
         "text": "WebAppWriter.com",
-        "href": "https://webappwriter.com"
+        "href": "https://webappwriter.com/"
       },
       {
         "text": "dataFundamentals.com",
-        "href": "https://datafundamentals-com.web.app/"
+        "href": "https://datafundamentals.com/"
       },
       {
         "text": "Betterology Corp",
-        "href": "https://betterology-com.web.app/"
+        "href": "https://betterology.com/"
       },
       {
         "text": "More Fins (Rocket Themes)",
@@ -90,7 +90,7 @@
     "children": [
       {
         "text": "Aspie Automator",
-        "href": "https://aspieautomator.com"
+        "href": "https://aspieautomator.com/"
       },
       {
         "text": "My Twitter",
