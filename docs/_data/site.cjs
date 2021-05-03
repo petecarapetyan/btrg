@@ -18,5 +18,7 @@ module.exports = function () {
     iconColorMsapplicationTileColor: '#1d3557',
     iconColorThemeColor: '#1d3557',
     socialMediaImage: '/_assets/social-media-image.jpg',
+    analyticsUA: 'UA-52870008-8',
+    analyticsGA4: 'G-E03X9JPHXF'
   };
 };
