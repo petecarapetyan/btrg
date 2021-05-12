@@ -2,6 +2,10 @@ body[layout^='layout-home'] .content-grid-area {
   background-color: #e5e5e5;
 }
 
+body[layout^='layout-home'] .teasers {
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+
 .teaser-blurb {
   background-color: white;
 }
