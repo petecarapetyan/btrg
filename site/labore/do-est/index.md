@@ -1,12 +1,11 @@
 ---
 layout: layout-sidebar
-title: index
+title: Do Est
 eleventyNavigation:
-  key: index
-  title: index
-  parent: do-est
+  key: do-est
+  title: Do Est
+  parent: labore
   # order: 42
-# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
 ---
 
 # Do est

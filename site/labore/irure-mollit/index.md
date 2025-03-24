@@ -1,12 +1,11 @@
 ---
 layout: layout-sidebar
-title: index
+title: Irure Mollit
 eleventyNavigation:
-  key: index
-  title: index
-  parent: irure-mollit
+  key: irure-mollit
+  title: Irure Mollit
+  parent: labore
   # order: 42
-# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
 ---
 
 # Irure mollit
