@@ -1,0 +1,58 @@
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+    id="svg1"
+    inkscape:version="0.41"
+    viewBox="0 0 60 60"
+    sodipodi:version="0.32"
+    _SVGFile__filename="oldscale/actions/button_accept.svg"
+    version="1.0"
+    y="0"
+    x="0"
+    sodipodi:docname="mark_as_spam.svgz"
+    sodipodi:docbase="/home/danny/work/icons/mono/scalable"
+  >
+  <path
+      id="path2302"
+      style="stroke-linejoin:round;color:#000000;stroke:#ffffff;stroke-linecap:round;stroke-width:4.4938;fill:none"
+      transform="matrix(1.808 0 0 1.808 101.86 39.932)"
+      d="m-25.747-5.4935c0 7.7279-6.272 14-14 14-7.728-0.0002-13.999-6.2721-13.999-14 0-7.7275 6.271-14 13.999-14 7.728 0.001 14 6.273 14 14z"
+  />
+  <g
+      id="g1839"
+      transform="matrix(1.3438 0 0 1.3438 -975.53 -1091.7)"
+    >
+    <path
+        id="path2980"
+        sodipodi:rx="24.000795"
+        sodipodi:ry="24.000795"
+        style="fill-rule:evenodd;color:#000000;fill:#ffffff"
+        sodipodi:type="arc"
+        d="m352.33 27.432a24.001 24.001 0 1 1 -48 0 24.001 24.001 0 1 1 48 0z"
+        transform="matrix(0.8 0 0 0.8 485.62 812.79)"
+        sodipodi:cy="27.431961"
+        sodipodi:cx="328.33087"
+    />
+    <path
+        id="path1725"
+        d="m325.6 5.4469c-0.64-0.0512-1.2 0.1044-1.59 0.4688v6.0623c-18.21 2.149-31.69 17.547-21.47 39.781 5.27 6.033 12.92 8.657 21.56 8.657 15.89 0 28.75-12.867 28.75-28.75 0-7.662-3.02-14.708-7.9-19.86 13.07 23.608-5.63 41.504-20.94 40.047v6.281c-3.16 2.915-15.81-8.764-15.81-14.593 0-5.83 12.65-17.478 15.81-14.563v2.438 3.656c3.16 2.915 15.78-8.764 15.78-14.594 0-5.101-9.65-14.672-14.19-15.031z"
+        sodipodi:nodetypes="ccccccccccccccc"
+        style="fill-rule:evenodd;color:#000000;fill:#000000"
+        transform="matrix(.64002 0 0 .64002 541.07 814.67)"
+    />
+  </g
+  >
+  <path
+      id="path2299"
+      style="stroke-linejoin:round;color:#000000;stroke:#000000;stroke-linecap:round;stroke-width:1.7284;fill:none"
+      transform="matrix(1.808 0 0 1.808 101.86 39.932)"
+      d="m-25.747-5.4935c0 7.7279-6.272 14-14 14-7.728-0.0002-13.999-6.2721-13.999-14 0-7.7275 6.271-14 13.999-14 7.728 0.001 14 6.273 14 14z"
+  />
+</svg
+>
