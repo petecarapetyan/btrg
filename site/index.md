@@ -1,5 +1,5 @@
 ---
-title: Lorem Ipsum!
+title: Home
 layout: layout-home
 eleventyNavigation:
   key: /
