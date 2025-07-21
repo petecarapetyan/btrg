@@ -1,20 +1,19 @@
 {
   "type": "module",
-  "name": "FIXME",
-  "version": "0.2.0",
+  "name": "btrg",
+  "version": "0.2.1",
   "description": "Initial migration from rocket",
   "main": "index.html",
   "scripts": {
     "build": "eleventy",
-    "serve": "eleventy --serve  --port=3000",
+    "serve": "eleventy && eleventy --serve  --port=3000",
     "test": "echo \"Error: no test specified\" && exit 1"
-  
+
   },
   "author": "Pete Carapetyan",
   "license": "MIT",
-  
   "devDependencies": {
-    "@11ty/eleventy": "^3.1.0",
+    "@11ty/eleventy": "^3.1.2",
     "@11ty/eleventy-navigation": "^1.0.4"
   },
   "dependencies": {
